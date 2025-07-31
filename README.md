@@ -1,5 +1,5 @@
 # Discount Variety Store Sales Analysis
-This Excel project analyzes 10 yeara of monthly sales data (2011-2020) for a discount variety store.
+This Excel project analyzes 10 years of monthly sales data (2011-2020) for a discount variety store.
 ## What I Did:
 - Cleaned and structured the dataset
 - Calculated annual sales and year-on-year growth
